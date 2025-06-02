@@ -1,0 +1,11 @@
+Incident_ID,Date,Location_ID,Vehicle_ID,Violation_Type,Fine_Amount
+5001,2024-01-01,5,1005,Signal Violation,250
+5002,2024-01-08,2,1007,Signal Violation,614
+5003,2024-01-15,6,1009,Speeding,463
+5004,2024-01-22,7,1004,Illegal Parking,683
+5005,2024-01-29,7,1008,Reckless Driving,344
+5006,2024-02-05,9,1008,Illegal Parking,142
+5007,2024-02-12,3,1005,DUI,261
+5008,2024-02-19,2,1002,Signal Violation,892
+5009,2024-02-26,1,1003,Reckless Driving,558
+5010,2024-03-04,4,1004,Reckless Driving,930
